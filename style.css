@@ -1,0 +1,50 @@
+p,
+h6 {
+    color: azure;
+}
+body {
+    font-family: 'Orbitron';
+    color: aliceblue;
+    line-height: auto;
+}
+
+header {
+    height: 100vh;
+    background: rgb(33, 37, 41);
+    background: linear-gradient(90deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) 55%, rgba(13, 202, 240, 1) 55%, rgba(13, 202, 240, 1) 100%);
+}
+
+.un {
+    font-size: 74px;
+    padding-top: 5%;
+}
+
+p {
+    font-family: 'Orbitron';
+}
+
+.btn-1,
+.btn-2 {
+    font-size: 35px;
+    margin-top: 8%;
+}
+
+
+h1,
+.sponsor {
+    text-align: center;
+}
+
+/* .container-fluid {
+    height: 30vh;
+} */
+
+.section-1 {
+    background-image: url(media/IMAGE\ \(7\).png);
+    height: 105vh;
+}
+.section-2 {
+    height: 100vh;  
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%, rgba(13,202,240,1) 100%, rgba(13,202,240,1) 100%);
+}
