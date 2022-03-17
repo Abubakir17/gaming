@@ -1,3 +1,9 @@
+* {
+    margin: 0%; 
+    margin-right: 0% ;
+}
+
+
 p,
 h6 {
     color: azure;
@@ -16,7 +22,6 @@ header {
 
 .un {
     font-size: 74px;
-    padding-top: 5%;
 }
 
 p {
@@ -43,8 +48,9 @@ h1,
     background-image: url(media/IMAGE\ \(7\).png);
     height: 105vh;
 }
-.section-2 {
-    height: 100vh;  
-    background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%, rgba(13,202,240,1) 100%, rgba(13,202,240,1) 100%);
+
+.footer-nav {
+    display: flex;
+    flex-direction: column;
+    padding: auto;
 }
